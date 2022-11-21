@@ -8,7 +8,7 @@ public class main {
 
         System.out.println("Výtejte v obchodu");
 
-        String[] seznam = {"", "", "", "", "", "", "", "", "", "", "", ""};
+        String[] seznam = {"", "", "", "", "", "", "", "", "", "", "", "", "", "", ""};
         int nvm = -1;
         int vysledek = 0;
 
